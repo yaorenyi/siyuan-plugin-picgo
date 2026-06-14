@@ -124,7 +124,7 @@ If you approve of this project, invite me to have a cup of coffee, which will en
 - [Electron-PicGo-Core](https://github.com/terwer/Electron-PicGo-Core)
 - [picgo-plugin-watermark-elec](https://github.com/terwer/picgo-plugin-watermark-elec)
 
-## Thanks
+
 
 Thanks to the solutions provided by the open source community, which simplifies a lot of work for this project!
 
